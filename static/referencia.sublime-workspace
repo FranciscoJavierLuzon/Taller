@@ -1,0 +1,594 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"no",
+				"nombreTabla"
+			],
+			[
+				"bloc",
+				"inline-block"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"mysql_fetc",
+				"mysql_fetch_assoc"
+			],
+			[
+				"for",
+				"for	for …"
+			],
+			[
+				"msql_field_",
+				"msql_field_name"
+			],
+			[
+				"mysql_num_",
+				"mysql_num_rows"
+			],
+			[
+				"msql_num",
+				"msql_num_fields"
+			],
+			[
+				"my",
+				"mysql_error"
+			],
+			[
+				"msql_err",
+				"mysql_errno"
+			],
+			[
+				"consul",
+				"consulta_ID"
+			],
+			[
+				"E",
+				"Error"
+			],
+			[
+				"coex",
+				"conexio_ID"
+			],
+			[
+				"conex",
+				"conexio_ID"
+			],
+			[
+				"bas",
+				"baseDatos"
+			],
+			[
+				"mysq",
+				"mysql_connect"
+			],
+			[
+				"mys",
+				"mysql_result"
+			],
+			[
+				"cl",
+				"clave"
+			],
+			[
+				"con",
+				"conexio_ID"
+			],
+			[
+				"ser",
+				"servidor"
+			],
+			[
+				"th",
+				"this"
+			],
+			[
+				"cone",
+				"conexio_ID"
+			],
+			[
+				"base",
+				"baseDatos"
+			],
+			[
+				"nombre",
+				"nombre_enlace"
+			],
+			[
+				"se",
+				"section	Tag"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"mysql",
+				"mysql_query"
+			],
+			[
+				"mysql_s",
+				"mysql_select_db"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "administrador.php",
+			"settings":
+			{
+				"buffer_size": 607,
+				"line_ending": "Unix",
+				"name": "administrador"
+			}
+		},
+		{
+			"file": "clase_mysql.php",
+			"settings":
+			{
+				"buffer_size": 2921,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "actualizar.php",
+			"settings":
+			{
+				"buffer_size": 6316,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "actualizado.php",
+			"settings":
+			{
+				"buffer_size": 1544,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "ingresar.php",
+			"settings":
+			{
+				"buffer_size": 4389,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "ingresado.php",
+			"settings":
+			{
+				"buffer_size": 1166,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/opt/lampp/htdocs/ing_web_2015",
+		"/opt/lampp/htdocs/ing_web_2015/web_app4_05_05_2015",
+		"/opt/lampp/htdocs/ing_web_2015/web_app4_05_05_2015/static"
+	],
+	"file_history":
+	[
+		"/opt/lampp/htdocs/ing_web_2015/web_app4_05_05_2015/static/menu2.php",
+		"/opt/lampp/htdocs/ing_web_2015/web_app2_05_05_2015/index.php",
+		"/opt/lampp/htdocs/ing_web_2015/web_app2_05_05_2015/static/validar.php",
+		"/opt/lampp/htdocs/ing_web_2015/web_app3_21_4_2015/cursos.php",
+		"/opt/lampp/htdocs/ing_web_2015/web_app_05_05_2015/index.php",
+		"/opt/lampp/htdocs/ing_web_2015/web_app2_28_4_2015/index.php",
+		"/opt/lampp/htdocs/ing_web_2015/web_app2_05_05_2015/static/menu.php",
+		"/media/diego/DIEGO/respaldo/web_app_28_4_2015/webapp28_4_15db.sql",
+		"/opt/lampp/htdocs/ing_web_2015/web_app_05_05_2015/prueba.php",
+		"/home/diego/Descargas/CursoI-leonelrojas18/FrmAlumno.php",
+		"/home/diego/Descargas/CursoI-leonelrojas18/conexion.php",
+		"/opt/lampp/htdocs/ing_web_2015/web_app2_14_4_2015/index.php",
+		"/opt/lampp/htdocs/ing_web_2015/web_app_28_4_2015/index.php",
+		"/opt/lampp/htdocs/ing_web_2015/web_app3_21_4_2015/index.php",
+		"/opt/lampp/htdocs/ing_web_2015/web_app2_05_05_2015/prueba.php",
+		"/opt/lampp/htdocs/ing_web_2015/web_app2_05_05_2015/form.php",
+		"/opt/lampp/htdocs/ing_web_2015/web_app2_05_05_2015/estilos/estilos.css",
+		"/opt/lampp/htdocs/ing_web_2015/_app_28_4_2015/estilos/estilos.css",
+		"/opt/lampp/htdocs/ing_web_2015/_app_28_4_2015/static/menu.php",
+		"/opt/lampp/htdocs/ing_web_2015/web_app3_21_4_2015/static/menu.php",
+		"/opt/lampp/htdocs/ing_web_2015/_app_28_4_2015/web1/estilos.css",
+		"/opt/lampp/htdocs/ing_web_2015/_app_28_4_2015/web/estilos.css",
+		"/opt/lampp/htdocs/ing_web_2015/_app_28_4_2015/web/index.html",
+		"/home/diego/Escritorio/web1/index.html",
+		"/home/diego/Escritorio/web1/estilos.css",
+		"/home/diego/Escritorio/web1/style.css",
+		"/opt/lampp/htdocs/ing_web_2015/_app_28_4_2015/web/web.html",
+		"/opt/lampp/htdocs/ing_web_2015/web_app_05_05_2015/static/site_config.php",
+		"/opt/lampp/htdocs/ing_web_2015/web_app_05_05_2015/static/clase_mysql.php",
+		"/opt/lampp/htdocs/ing_web_2015/web_app2_28_4_2015/estilos/estilos.css",
+		"/opt/lampp/htdocs/ing_web_2015/web_app2_28_4_2015/static/menubd.php",
+		"/opt/lampp/htdocs/ing_web_2015/web_app3_21_4_2015/static/menu2.php",
+		"/opt/lampp/htdocs/ing_web_2015/_app_28_4_2015/rl_principal.php",
+		"/opt/lampp/htdocs/ing_web_2015/web_app2_28_4_2015/static/footer.php",
+		"/opt/lampp/htdocs/ing_web_2015/web_app2_28_4_2015/include/menubd.php",
+		"/opt/lampp/htdocs/ing_web_2015/web_app3_21_4_2015/static/footer.php",
+		"/opt/lampp/htdocs/ing_web_2015/web_app2_28_4_2015/musica.php",
+		"/opt/lampp/htdocs/ing_web_2015/web_app2_28_4_2015/include/musica.php",
+		"/home/diego/Descargas/web_app_28_4_2015/static/menu.php",
+		"/home/diego/Descargas/web_app_28_4_2015/rl_principal.php",
+		"/opt/lampp/htdocs/ing_web_2015/web_app_14_4_2015/static/menu.php",
+		"/opt/lampp/htdocs/ing_web_2015/web_app_14_4_2015/index.php",
+		"/opt/lampp/htdocs/ing_web_2015/web_app_28_4_2015/static/conect_mysql.php",
+		"/home/diego/Escritorio/index.html",
+		"/opt/lampp/htdocs/ing_web_2015/web_app2_14_4_2015/static/menu.php",
+		"/home/diego/Escritorio/index.php",
+		"/opt/lampp/htdocs/ing_web_2015/web_app_28_4_2015/static/menu.php",
+		"/opt/lampp/htdocs/ing_web_2015/web_app_28_4_2015/include/menu_contacto.php",
+		"/media/diego/DIEGO/web_app_28_4_2015/rl_principal.php",
+		"/home/diego/Escritorio/webapp28_4_15db1.sql",
+		"/opt/lampp/htdocs/ing_web_2015/web_app_28_4_20152/rl_principal.php",
+		"/opt/lampp/htdocs/ing_web_2015/web_app_28_4_20152/404.html",
+		"/opt/lampp/htdocs/ing_web_2015/web_app_28_4_2015/static/site_config.php",
+		"/opt/lampp/htdocs/ing_web_2015/web_app_28_4_2015/static/footer.php",
+		"/opt/lampp/htdocs/ing_web_2015/web_app_28_4_2015/estilos/estilos.css",
+		"/opt/lampp/htdocs/ing_web_2015/web_app3_21_4_2015/estilos/estilos.css",
+		"/opt/lampp/htdocs/ing_web_2015/web_app3_21_4_2015/.htaccess",
+		"/opt/lampp/htdocs/ing_web_2015/web_app3_21_4_2015/static/conect_mysql.php",
+		"/opt/lampp/htdocs/ing_web_2015/web_app3_21_4_2015/static/site_config.php",
+		"/opt/lampp/htdocs/ing_web_2015/web_app3_21_4_2015/include/contactos.php",
+		"/opt/lampp/htdocs/ing_web_2015/web_app2_14_4_2015/static/site_config.php",
+		"/opt/lampp/htdocs/ing_web_2015/web_app2_14_4_2015/static/footer.php",
+		"/opt/lampp/htdocs/ing_web_2015/web_app2_14_4_2015/estilos/estilos.css",
+		"/opt/lampp/htdocs/ing_web_2015/web_app2_14_4_2015/include/listaofocios.php",
+		"/opt/lampp/htdocs/ing_web_2015/web_app2_14_4_2015/include/videosofocios.php",
+		"/opt/lampp/htdocs/ing_web_2015/web_app2_14_4_2015/include/mensaje.php",
+		"/opt/lampp/htdocs/ing_web_2015/web_app2_14_4_2015/include/informacion.php",
+		"/opt/lampp/htdocs/ing_web_2015/web_app2_14_4_2015/include/menu_contacto.php",
+		"/opt/lampp/htdocs/ing_web_2015/web_app2_14_4_2015/include/videos.php",
+		"/opt/lampp/htdocs/ing_web_2015/web_app2_14_4_2015/include/listavideos.php",
+		"/opt/lampp/htdocs/ing_web_2015/web_app2_14_4_2015/include/videoteca.php",
+		"/opt/lampp/htdocs/ing_web_2015/web_app2_14_4_2015/include/fotos.php",
+		"/opt/lampp/htdocs/ing_web_2015/web_app2_14_4_2015/include/listafotos.php",
+		"/opt/lampp/htdocs/ing_web_2015/web_app2_14_4_2015/include/galeria.php",
+		"/opt/lampp/htdocs/ing_web_2015/web_app2_14_4_2015/include/listaproductos.php",
+		"/opt/lampp/htdocs/ing_web_2015/web_app2_14_4_2015/include/oficios.php",
+		"/opt/lampp/htdocs/ing_web_2015/web_app2_14_4_2015/include/bienvenida.php",
+		"/opt/lampp/htdocs/ing_web_2015/web_app2_14_4_2015/include/Actualizar2.php",
+		"/opt/lampp/htdocs/ing_web_2015/web_app2_14_4_2015/include/about.php",
+		"/opt/lampp/htdocs/ing_web_2015/web_app2_14_4_2015/include/Eliminar.html",
+		"/opt/lampp/htdocs/ing_web_2015/web_app2_14_4_2015/include/contactos.php",
+		"/opt/lampp/htdocs/ing_web_2015/webapp2_7_4_2015/css/estilos.css",
+		"/opt/lampp/htdocs/ing_web_2015/webapp2_7_4_2015/webapp1.html",
+		"/opt/lampp/htdocs/ing_web_2015/webapp2_7_4_2015/CSS/estilos.css",
+		"/opt/lampp/htdocs/ing_web_2015/webapp7_4_2015/CSS/estilos.css",
+		"/opt/lampp/htdocs/ing_web_2015/webapp7_4_2015/webapp1.html"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"<<!",
+			"Galería"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "administrador.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 607,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								297,
+								297
+							]
+						],
+						"settings":
+						{
+							"auto_name": "administrador",
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "clase_mysql.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2921,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 107.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "actualizar.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6316,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 817.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "actualizado.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1544,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1544,
+								1544
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 247.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "ingresar.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4389,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1079,
+								1079
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "ingresado.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1166,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								239,
+								239
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "referencia.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 201.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

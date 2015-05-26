@@ -1,0 +1,131 @@
+body{
+	background: #F2F2F2;
+}
+footer{
+	text-align: center;
+	width: 100%;
+	background: #333;
+	color: #999;
+	padding: 0.5em;
+}
+.container{
+	background: white;
+	margin: 0 auto;
+	padding: 0.2em;
+}
+#mnf{
+	background: #BCBED2;
+}
+
+/*Formulario*/
+.estilo_caja{
+	background: #B0C4DE;
+	width: 600px;
+	height: 450px;
+	margin:5px;
+	padding: 5px;
+	border-radius: 3px;
+}
+
+.s{
+	color: red;
+	text-shadow: 1px 1px 1px #000;
+	font-family: Calibri;
+}
+
+.estilo_caja{
+	color: #000000;
+	text-shadow: 1px 1px 1px #000;
+	font-family: Harrington;
+	font-weight: bold;
+	font-size: 15px;
+	margin: 5px;
+}
+div#bloques{
+	color: #FFA07A;
+	text-shadow: 1px 1px 1px #000;
+	font-family: Harrington;
+	font-size: 15px;
+	background: #B0C4DE;
+	width: 250px;
+	height: 200px;
+	border-radius: 3px;
+}
+div#admin{
+	background: #F6D8CE;
+	padding: 3em 3em;
+	margin: 2em 1em 0em 1em;
+}
+div#img{
+	color: #5882FA;
+	background: #B0C4DE;
+	padding: 1em 1em;
+	border-radius: 20px;
+}
+div#menu_administrador{
+	background: #B0C4DE;
+	margin: 1em;
+	border-radius: 10px;
+}
+div#menu_administrador1{
+	background: #B0C4DE;
+	margin: 1em;
+	border-radius: 10px;
+	width: 180px;
+}
+td#color{
+	color: black;
+	background: #FFA07A;
+	padding: 0.5em 0.5em;
+	margin: 1em 1em;
+	text-align: center;
+}
+td#color2{
+	color: black;
+	padding: 0.5em 0.5em 0.5em 0.5em;
+	margin: 1em 1em 1em 1em;
+	border-radius: 10px;
+	text-decoration: none;
+}
+tr#color1:hover{
+	background: white;
+	color: black;
+	font-size: 100%;
+}
+tr#color1 li a{
+	text-decoration: none;
+}
+tr#color4{
+	border-radius: 50px;
+}
+ul, li{
+	list-style: none;
+}
+a#ingresar{
+	text-decoration: none;
+	color: black;
+	background: #FFA07A;
+	padding: 0.5em 0.5em;
+	font-size: 110%;
+	border-radius: 10px;
+}
+ul#ingresar{
+	padding: 1.5em 4em;
+}
+a#borrar:hover{
+	color: red;
+	font-size: 120%;
+}
+a#ingresar:hover{
+	background: white;
+}
+div#izquierda{
+	margin: 2em 0em 1em 0em;
+}
+li#tituloBloque{
+	text-align: left;
+	font-family: sans-serif; 
+}
+div#usuariofinal, li#tituloBloque{
+	text-align: center;
+}
